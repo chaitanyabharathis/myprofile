@@ -13,9 +13,14 @@
 	border-radius: 5%;
 	text-align: center;
 }
+.name{
+	font-style: bold;
+	color: red;
+
+}
 .role{
 	font-style: italic;
-	color: #525a1c;
+	color: blue;
 }
 .profile{
 	width: 200px;
